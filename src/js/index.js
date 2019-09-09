@@ -1,3 +1,3 @@
 import testing from "./test";
-
-console.log(`Tested Code from ${testing}`);
+const x=23;
+console.log(`Tested Code from ${testing} ${40}`);
